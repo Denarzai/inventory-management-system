@@ -1,0 +1,10 @@
+Laptop 1500 15 Elec 1001
+Phone 800 41 Elec 1002
+Headset 150 100 Acc 1003
+Speaker 120 44 Acc 1004
+Fridge 1200 15 Appl 1005
+Oven 300 15 Appl 1006
+Shoes 60 200 Sport 1007
+Cycle 900 7 Equip 1008
+Watch 250 60 Acc 1009
+Chair 200 23 Furn 1010

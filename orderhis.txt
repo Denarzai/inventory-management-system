@@ -1,0 +1,3 @@
+subhan Laptop 1500 1 Elec 1001
+subhan Headset 150 2 Acc 1003
+ss Chair 200 3 Furn 1010
